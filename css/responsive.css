@@ -1,0 +1,324 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    .design {
+        position: absolute;
+        top: 86%;
+    }
+    
+    .logo {
+        text-align: left;
+    }
+    .navbar-nav
+    {
+        display: none;
+    }
+    .mobile-menu {
+        display: block;
+        position: relative;
+        bottom: 60px;
+        z-index: 9999;
+        color: #fff;
+    }
+    
+    .navbar-nav {
+        margin-top: 10px;
+        display: block;
+        text-align: center;
+    }
+    
+    .w-100 {
+        width: 100%!important;
+        height: 500px;
+    }
+  #Top-Header
+  {
+      display: none;
+  }
+  .carousel-caption {
+    top: 40%;
+    height: 200px;
+    right: 0%;
+    z-index: 0;
+    left: 0%;
+    text-align: center;
+}
+.navbar-toggler 
+{
+    background-color: #fff;
+    z-index: +1;
+    color: #000;
+    margin-top: 5%;
+}
+ 
+    .copyright
+    {
+        text-align: center;
+    }
+    .carousel-indicators
+    {
+    display: none !important;
+    }
+    .region-read-more-btn i {
+        padding-left: 5%;
+    }
+    .nav-tabs .nav-item {
+        width: 50%;
+        display: inline-block;
+    }
+    .Area-image
+    {
+        height: 500px;
+    }
+    .service-item {
+        text-align: center;
+        padding: 3%;
+        border: 1px solid gray;
+        margin: 0 auto;
+        margin-bottom: 10%;
+        height: 250px;
+        box-sizing: border-box;
+    }
+    .carousel-control-next, .carousel-control-prev {
+        bottom: 100px;
+        width: 19% !important;
+        z-index: 0;
+    }
+    
+    .carousel-control-next-icon:hover
+    {
+        padding: 20px;
+    }
+    #About-us {
+        text-align: center;
+        margin-top: 20%;
+    }
+    .region
+    {
+width: 100%;
+    }
+    .subscribe {
+        padding: 5% 0;
+        text-align: center;
+    }
+    .subscribe .form-control
+    {
+        width: 60%;
+        margin-top: 5%;
+    }
+    .nav-item a
+    {
+        font-size: 12px;
+    }
+    .subscribe i {
+        right: 8%;
+    }
+    .navbar-nav .nav-link,.nav-tabs .nav-link
+    {
+        font-size: 13px;
+    }
+
+    .social-media {
+        display: flex;
+        justify-content: center;
+        margin-top: 5%;
+    }
+    .ml-auto, .mx-auto
+    {
+        margin-left: 0 !important;
+    }
+    
+    .community-image {
+        padding: 5% 0;
+        text-align: center;
+    }
+    .community-title-4 h5, .community-title-3 h5, .community-title-2 h5 , .community-title-1  h5
+    {
+        font-size: 15px;
+    }
+   
+    .curosal-caption-2 h1
+    {
+font-size: 20px;
+    }
+    .navbar
+    {
+        display: none;
+    }
+    .read-more-btn
+    {
+        width: 50%;
+        margin: 0 auto;
+    }
+    .box {
+       
+        top: 94%;
+        padding: 1% 2%;
+        height: 80px;
+        width: 100%;
+     
+        left: 0%;
+    }
+  }
+
+
+
+
+  @media (min-width: 481px) and (max-width: 767px) {
+  
+    .design {
+        position: absolute;
+        top: 86%;
+    }
+    .service-item
+    {
+        text-align: center;
+        height: 250px;
+    }
+    .carousel-caption {
+        top: 40%;
+        height: 200px;
+        right: 0%;
+        left: 2%;
+        z-index: 0;
+        z-index: 0;
+        text-align: center;
+    }
+    .logo {
+        text-align: left;
+    }
+    
+   
+  
+    .navbar-nav {
+        margin-top: 10px;
+        display: block;
+        text-align: center;
+    }
+    
+    .w-100 {
+        width: 100%!important;
+        height: 500px;
+    }
+  #Top-Header
+  {
+      display: none;
+  }
+
+.navbar-toggler 
+{
+    background-color: #fff;
+    z-index: +1;
+    color: #000;
+    margin-top: 5%;
+}
+ 
+    .copyright
+    {
+        text-align: center;
+    }
+    .carousel-indicators
+    {
+    display: none !important;
+    }
+    .region-read-more-btn i {
+        padding-left: 5%;
+    }
+    .nav-tabs .nav-item {
+        width: 50%;
+        display: inline-block;
+    }
+    .Area-image
+    {
+        height: 500px;
+    }
+  
+    .carousel-control-next, .carousel-control-prev {
+        bottom: 100px;
+        width: 19% !important;
+        z-index: 40;
+    }
+    
+    .carousel-control-next-icon:hover
+    {
+        padding: 20px;
+    }
+    #About-us {
+        text-align: center;
+        margin-top: 20%;
+    }
+    .mobile-menu {
+        display: block;
+        z-index: 9999;
+        color: #fff;
+    }
+    .region
+    {
+width: 100%;
+    }
+    .subscribe {
+        padding: 5% 0;
+        text-align: center;
+    }
+    .subscribe .form-control
+    {
+        width: 60%;
+        margin-top: 5%;
+    }
+    .nav-item a
+    {
+        font-size: 12px;
+    }
+    .subscribe i {
+        right: 8%;
+    }
+    .navbar-nav .nav-link,.nav-tabs .nav-link
+    {
+        font-size: 13px;
+    }
+
+    .social-media {
+        display: flex;
+        justify-content: center;
+        margin-top: 5%;
+    }
+    .ml-auto, .mx-auto
+    {
+        margin-left: 0 !important;
+    }
+    @media screen and (max-height: 450px) {
+        .sidenav {padding-top: 15px;}
+        .sidenav a {font-size: 13px;}
+      }
+    
+    .community-image {
+        padding: 5% 0;
+        text-align: center;
+    }
+    .community-title-4 h5, .community-title-3 h5, .community-title-2 h5 , .community-title-1  h5
+    {
+        font-size: 15px;
+    }
+   
+    .curosal-caption-2 h1
+    {
+font-size: 20px;
+    }
+    .navbar
+    {
+        justify-content: flex-end;
+        z-index: 56;
+        display: none;
+    }
+    .read-more-btn
+    {
+        margin: 0 auto;
+    }
+    .box {
+       
+        top: 94%;
+        padding: 1% 2%;
+        height: 80px;
+        width: 100%;
+     
+        left: 0%;
+    }    
+  }
